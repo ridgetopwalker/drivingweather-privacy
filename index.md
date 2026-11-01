@@ -88,4 +88,4 @@ If the app's data practices change, I'll update this page and its effective date
 
 ## Contact
 
-Questions about this policy or the app: [mcclain.sean.appdev@gmail.com](mailto:mcclain.sean.appdev@gmail.com)
+Questions about this policy or the app: [dev@ridgetopwalker.com](mailto:dev@ridgetopwalker.com)
