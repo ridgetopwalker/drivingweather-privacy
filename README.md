@@ -10,4 +10,4 @@ This URL is used in Play Console (App content, Privacy policy) and in the app's 
 ## Updating
 When the app's data practices change, edit `index.md`, update the effective date, and push to `main`. Pages rebuilds in about a minute.
 
-Contact: mcclain.sean.appdev@gmail.com
+Contact: dev@ridgetopwalker.com
