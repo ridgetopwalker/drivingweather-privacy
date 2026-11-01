@@ -1,7 +1,7 @@
 # drivingweather-privacy
 
 Source of the Driving Weather privacy policy (developer: Sean McClain), published with GitHub Pages at
-https://sean-mcclain-eugene.github.io/drivingweather-privacy/
+https://ridgetopwalker.com/drivingweather/privacy/
 
 ## Status
 Published 2026-10-06. Pages source: branch `main`, folder `/ (root)`, theme Minimal.
