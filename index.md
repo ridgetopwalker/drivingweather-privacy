@@ -6,7 +6,7 @@ permalink: /
 
 # Privacy Policy for Driving Weather
 
-**Effective date:** October 21, 2026
+**Effective date:** [DATE THIS CHANGE GOES LIVE]
 
 This policy covers the Android app **Driving Weather** (package `com.drivingweather.app`), made by Sean McClain ("I", "me"). It explains what information the app uses, where that information goes, and the choices you have.
 
@@ -64,7 +64,7 @@ I don't sell your information, share it for advertising, or make money from it. 
 ## What is stored on your phone, and how to delete it
 
 - **Current trip:** the trip you're planning is kept in the app's memory while you use it. Apart from the Recent trips list below, the app doesn't save trips, and I never receive them.
-- **Recent trips:** Driving Weather saves your last 10 planned trips (start, stops, layover hours, destination, their place names and map locations, time zones, and when each trip was last planned) on your phone, so you can plan them again quickly. Departure times aren't saved. The saved list is never sent to me or anyone else, and it isn't included in device backups or in transfers to a new phone. When you plan an 11th trip, the oldest one is removed. You can remove a single trip from the list, or clear them all in **Settings → Your data → Clear recent trips**.
+- **Recent trips:** Driving Weather saves your last 10 planned trips (start, stops, layover hours, destination, their place names and map locations, time zones, and when each trip was last planned) on your phone, so you can plan them again quickly. Departure times aren't saved. The saved list is never sent to me or anyone else, and it isn't included in device backups or in transfers to a new phone. When you plan an 11th trip, the oldest one is removed, and a trip is deleted about 6 months after you last planned it. If you start a trip from "Use current location", that start is saved with its exact map location until the trip is removed. You can remove a single trip from the list, or clear them all in **Settings → Your data → Clear recent trips**.
 - **Settings:** your choices for units, theme, map display, and weather alerts are saved on your phone. They contain no trip or location information. If you use Android's backup, Android may include them in your backup.
 - **PDF export:** when you tap **Export PDF**, the app creates a trip PDF in its private cache folder. Older exported PDFs are deleted each time you export a new one. The file is named **"Driving Weather - [start] to [destination] - [date].pdf"**, so anyone you share it with can see those place names and the travel date in the file name. The PDF includes your start, stops, and destination (which may include coordinates if a place name couldn't be found), your departure date and time, any layover hours, the route summary with the distance and drive time for each leg, weather by zone, and, when available, a map image. Android's share sheet then opens, and **you choose** which app (if any) receives the PDF. Only that one file is shared. Once shared, the copy is handled by that app or recipient.
 - **To delete everything the app stores:** clear Recent trips in the app's Settings, or go to Android **Settings → Apps → Driving Weather → Storage → Clear storage / Clear cache**, or uninstall the app.
